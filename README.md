@@ -1,3 +1,4 @@
 # hello-world
  My first repository on GitHub
-I love music, movie, coffee, books and traveling; I hope I will not fail this course!
+ 
+ Ryan Hong here. I love music, movie, coffee, books and traveling; I am a total rookie in programming, hope that I will not fail C# course! 
